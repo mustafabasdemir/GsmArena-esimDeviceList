@@ -1,0 +1,352 @@
+[
+    {
+        "url": "https://www.gsmarena.com/samsung_galaxy_s25_edge-13506.php",
+        "modelName": "Samsung Galaxy S25 Edge",
+        "modelCode": "SM-S937U, SM-S937U1, SM-S937B, SM-S937B/DS, SM-S9370"
+    },
+    {
+        "url": "https://www.gsmarena.com/sony_xperia_1_vii_5g-13843.php",
+        "modelName": "Sony Xperia 1 VII",
+        "modelCode": "XQ-FS54, XQFS54EUKCG.GC, XQFS54EUKCV.GC, XQFS54EUKCB.GC, PDX256"
+    },
+    {
+        "url": "https://www.gsmarena.com/samsung_galaxy_a56-13603.php",
+        "modelName": "Samsung Galaxy A56",
+        "modelCode": "SM-A566V, SM-A566B, SM-A566B/DS, SM-A566E, SM-A566E/DS, SM-A5660"
+    },
+    {
+        "url": "https://www.gsmarena.com/samsung_galaxy_s25_ultra-13322.php",
+        "modelName": "Samsung Galaxy S25 Ultra",
+        "modelCode": "SM-S938B, SM-S938B/DS, SM-S938U, SM-S938U1, SM-S938W, SM-S938N, SM-S9380, SM-S938E, SM-S938E/DS"
+    },
+    {
+        "url": "https://www.gsmarena.com/apple_iphone_16_pro_max-13123.php",
+        "modelName": "Apple iPhone 16 Pro Max",
+        "modelCode": "A3296, A3084, A3295, A3297, iPhone17,2"
+    },
+    {
+        "url": "https://www.gsmarena.com/oneplus_13t_5g-13791.php",
+        "modelName": "OnePlus 13T",
+        "modelCode": "PKX110"
+    },
+    {
+        "url": "https://www.gsmarena.com/samsung_galaxy_a36-13497.php",
+        "modelName": "Samsung Galaxy A36",
+        "modelCode": "SM-A366E, SM-A366E/DS, SM-A366B, SM-A366B/DS, SM-A366U, SM-A366U1"
+    },
+    {
+        "url": "https://www.gsmarena.com/samsung_galaxy_s25-13610.php",
+        "modelName": "Samsung Galaxy S25",
+        "modelCode": "SM-S931B, SM-S931B/DS, SM-S931U, SM-S931U1, SM-S931W, SM-S931N, SM-S9310, SM-S931E, SM-S931E/DS"
+    },
+    {
+        "url": "https://www.gsmarena.com/apple_iphone_13-11103.php",
+        "modelName": "Apple iPhone 13",
+        "modelCode": "A2633, A2482, A2631, A2634, A2635, iphone14,5"
+    },
+    {
+        "url": "https://www.gsmarena.com/motorola_edge_60_pro-13815.php",
+        "modelName": "Motorola Edge 60 Pro",
+        "modelCode": "XT2507-1"
+    },
+    {
+        "url": "https://www.gsmarena.com/samsung_galaxy_s24_ultra-12771.php",
+        "modelName": "Samsung Galaxy S24 Ultra",
+        "modelCode": "SM-S928B, SM-S928B/DS, SM-S928U, SM-S928U1, SM-S928W, SM-S928N, SM-S9280, SM-S928E, SM-S928E/DS"
+    },
+    {
+        "url": "https://www.gsmarena.com/xiaomi_redmi_note_14_pro_5g_(global)-13613.php",
+        "modelName": "Xiaomi Redmi Note 14 Pro 5G",
+        "modelCode": "24090RA29G"
+    },
+    {
+        "url": "https://www.gsmarena.com/samsung_galaxy_a55-12824.php",
+        "modelName": "Samsung Galaxy A55",
+        "modelCode": "SM-A556V, SM-A556B, SM-A556B/DS, SM-A556E, SM-A556E/DS, SM-A5560"
+    },
+    {
+        "url": "https://www.gsmarena.com/apple_iphone_11-9848.php",
+        "modelName": "Apple iPhone 11",
+        "modelCode": "A2221, A2111, A2223, iPhone12,1"
+    },
+    {
+        "url": "https://www.gsmarena.com/samsung_galaxy_s24_fe-13262.php",
+        "modelName": "Samsung Galaxy S24 FE",
+        "modelCode": "SM-S721B, SM-S721B/DS, SM-S721U1, SM-S721U, SM-S721W, SM-S7210, SM-S721N"
+    },
+    {
+        "url": "https://www.gsmarena.com/oppo_reno14_pro_5g-13865.php",
+        "modelName": "Oppo Reno14 Pro",
+        "modelCode": "PKZ110"
+    },
+    {
+        "url": "https://www.gsmarena.com/motorola_edge_60_fusion-13752.php",
+        "modelName": "Motorola Edge 60 Fusion",
+        "modelCode": "XT2503-4"
+    },
+    {
+        "url": "https://www.gsmarena.com/apple_iphone_16-13317.php",
+        "modelName": "Apple iPhone 16",
+        "modelCode": "A3287, A3081, A3286, A3288, iPhone17,3"
+    },
+    {
+        "url": "https://www.gsmarena.com/samsung_galaxy_s24-12773.php",
+        "modelName": "Samsung Galaxy S24",
+        "modelCode": "SM-S921B, SM-S921B/DS, SM-S921U, SM-S921U1, SM-S921W, SM-S921N, SM-S9210, SM-S921E, SM-S921E/DS"
+    },
+    {
+        "url": "https://www.gsmarena.com/xiaomi_redmi_note_13_pro-12581.php",
+        "modelName": "Xiaomi Redmi Note 13 Pro",
+        "modelCode": "2312DRA50C, 2312CRAD3C, 2312DRA50G, 2312DRA50I"
+    },
+    {
+        "url": "https://www.gsmarena.com/xiaomi_15_ultra-13657.php",
+        "modelName": "Xiaomi 15 Ultra",
+        "modelCode": "25010PN30G"
+    },
+    {
+        "url": "https://www.gsmarena.com/apple_iphone_xr-9320.php",
+        "modelName": "Apple iPhone XR",
+        "modelCode": "A2105, A1984, A2107, A2108, A2106, iPhone11,8"
+    },
+    {
+        "url": "https://www.gsmarena.com/oneplus_13-13477.php",
+        "modelName": "OnePlus 13",
+        "modelCode": "CPH2655, CPH2653, PJZ110, CPH2649"
+    },
+    {
+        "url": "https://www.gsmarena.com/apple_iphone_16_pro-13315.php",
+        "modelName": "Apple iPhone 16 Pro",
+        "modelCode": "A3293, A3083, A3292, A3294, iPhone17,1"
+    },
+    {
+        "url": "https://www.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php",
+        "modelName": "Samsung Galaxy S22 Ultra 5G",
+        "modelCode": "SM-S908B, SM-S908B/DS, SM-S908U, SM-S908U1, SM-S908W, SM-S908N, SM-S9080, SM-S908E, SM-S908E/DS"
+    },
+    {
+        "url": "https://www.gsmarena.com/samsung_galaxy_a35-12705.php",
+        "modelName": "Samsung Galaxy A35",
+        "modelCode": "SM-A356E, SM-A356E/DS, SM-A356B, SM-A356B/DS, SM-A356U, SM-A356U1"
+    },
+    {
+        "url": "https://www.gsmarena.com/xiaomi_redmi_note_14_pro+_5g_(global)-13612.php",
+        "modelName": "Xiaomi Redmi Note 14 Pro+ 5G",
+        "modelCode": "24115RA8EG"
+    },
+    {
+        "url": "https://www.gsmarena.com/apple_iphone_15-12559.php",
+        "modelName": "Apple iPhone 15",
+        "modelCode": "A3090, A2846, A3089, A3092, iPhone15,4"
+    },
+    {
+        "url": "https://www.gsmarena.com/samsung_galaxy_s23_ultra-12024.php",
+        "modelName": "Samsung Galaxy S23 Ultra",
+        "modelCode": "SM-S918B, SM-S918B/DS, SM-S918U, SM-S918U1, SM-S918W, SM-S918N, SM-S9180, SM-S918E, SM-S918E/DS"
+    },
+    {
+        "url": "https://www.gsmarena.com/google_pixel_9_pro-13218.php",
+        "modelName": "Google Pixel 9 Pro",
+        "modelCode": "GR83Y, GEC77, GWVK6"
+    },
+    {
+        "url": "https://www.gsmarena.com/apple_iphone_12-10509.php",
+        "modelName": "Apple iPhone 12",
+        "modelCode": "A2403, A2172, A2402, A2404, iPhone13,2"
+    },
+    {
+        "url": "https://www.gsmarena.com/xiaomi_15-13472.php",
+        "modelName": "Xiaomi 15",
+        "modelCode": "24129PN74G, 24129PN74I, 24129PN74C"
+    },
+    {
+        "url": "https://www.gsmarena.com/oppo_reno14_5g-13866.php",
+        "modelName": "Oppo Reno14",
+        "modelCode": "PLA110"
+    },
+    {
+        "url": "https://www.gsmarena.com/google_pixel_9a-13478.php",
+        "modelName": "Google Pixel 9a",
+        "modelCode": "GXQ96, GTF7P, G3Y12"
+    },
+    {
+        "url": "https://www.gsmarena.com/apple_iphone_15_pro_max-12548.php",
+        "modelName": "Apple iPhone 15 Pro Max",
+        "modelCode": "A2849, A3105, A3106, A3108, iPhone16,2"
+    },
+    {
+        "url": "https://www.gsmarena.com/apple_iphone_13_pro_max-11089.php",
+        "modelName": "Apple iPhone 13 Pro Max",
+        "modelCode": "A2643, A2484, A2641, A2644, A2645, iphone14,3"
+    },
+    {
+        "url": "https://www.gsmarena.com/sony_xperia_1_vi-13003.php",
+        "modelName": "Sony Xperia 1 VI",
+        "modelCode": "XQEC54EUKCB.GC, XQEC54EUKCG.GC, XQEC54EUKCS.GC, XQ-EC72"
+    },
+    {
+        "url": "https://www.gsmarena.com/apple_iphone_17_air-13502.php",
+        "modelName": "Apple iPhone 17 Air",
+        "modelCode": "Yok"
+    },
+    {
+        "url": "https://www.gsmarena.com/apple_iphone_14_pro_max-11773.php",
+        "modelName": "Apple iPhone 14 Pro Max",
+        "modelCode": "A2894, A2651, A2893, A2895, iphone15,3"
+    },
+    {
+        "url": "https://www.gsmarena.com/samsung_galaxy_s23-12082.php",
+        "modelName": "Samsung Galaxy S23",
+        "modelCode": "SM-S911B, SM-S911B/DS, SM-S911U, SM-S911U1, SM-S911W, SM-S911N, SM-S9110, SM-S911E, SM-S911E/DS"
+    },
+    {
+        "url": "https://www.gsmarena.com/google_pixel_9_pro_xl-13217.php",
+        "modelName": "Google Pixel 9 Pro XL",
+        "modelCode": "GGX8B, GZC4K, GQ57S"
+    },
+    {
+        "url": "https://www.gsmarena.com/apple_iphone_16e-13395.php",
+        "modelName": "Apple iPhone 16e",
+        "modelCode": "A3212, A3409, A3410, A3408, iPhone17,5"
+    },
+    {
+        "url": "https://www.gsmarena.com/apple_iphone_12_pro_max-10237.php",
+        "modelName": "Apple iPhone 12 Pro Max",
+        "modelCode": "A2411, A2342, A2410, A2412, iPhone13,4"
+    },
+    {
+        "url": "https://www.gsmarena.com/samsung_galaxy_s25+-13609.php",
+        "modelName": "Samsung Galaxy S25+",
+        "modelCode": "SM-S936B, SM-S936B/DS, SM-S936U, SM-S936U1, SM-S936W, SM-S936N, SM-S9360, SM-S936E, SM-S936E/DS"
+    },
+    {
+        "url": "https://www.gsmarena.com/apple_iphone_14-11861.php",
+        "modelName": "Apple iPhone 14",
+        "modelCode": "A2882, A2649, A2881, A2884, A2883, iphone14,7"
+    },
+    {
+        "url": "https://www.gsmarena.com/nothing_phone_(3a)_pro-13649.php",
+        "modelName": "Nothing Phone (3a) Pro",
+        "modelCode": "A059P"
+    },
+    {
+        "url": "https://www.gsmarena.com/samsung_galaxy_s21_ultra_5g-10596.php",
+        "modelName": "Samsung Galaxy S21 Ultra 5G",
+        "modelCode": "SM-G998B, SM-G998B/DS, SM-G998U, SM-G998U1, SM-G998W, SM-G998N, SM-G9980"
+    },
+    {
+        "url": "https://www.gsmarena.com/google_pixel_7_pro-11908.php",
+        "modelName": "Google Pixel 7 Pro",
+        "modelCode": "GP4BC, GE2AE, GFE4J"
+    },
+    {
+        "url": "https://www.gsmarena.com/motorola_edge_60-13779.php",
+        "modelName": "Motorola Edge 60",
+        "modelCode": "XT2505-1, XT2505-4"
+    },
+    {
+        "url": "https://www.gsmarena.com/apple_iphone_14_pro-11860.php",
+        "modelName": "Apple iPhone 14 Pro",
+        "modelCode": "A2890, A2650, A2889, A2892, iphone15,2"
+    },
+    {
+        "url": "https://www.gsmarena.com/oneplus_13r-13548.php",
+        "modelName": "OnePlus 13R",
+        "modelCode": "CPH2645, CPH2691, CPH2647"
+    },
+    {
+        "url": "https://www.gsmarena.com/vivo_x200_pro-13410.php",
+        "modelName": "vivo X200 Pro",
+        "modelCode": "V2413, V2405A, V2405DA"
+    },
+    {
+        "url": "https://www.gsmarena.com/samsung_galaxy_s22_5g-11253.php",
+        "modelName": "Samsung Galaxy S22 5G",
+        "modelCode": "SM-S901B, SM-S901B/DS, SM-S901U, SM-S901U1, SM-S901W, SM-S901N, SM-S9010, SM-S901E, SM-S901E/DS"
+    },
+    {
+        "url": "https://www.gsmarena.com/samsung_galaxy_a54-12070.php",
+        "modelName": "Samsung Galaxy A54",
+        "modelCode": "SM-A546V, SM-A546U, SM-A546U1, SM-A546B, SM-A546B/DS, SM-A546E, SM-A546E/DS, SM-A5460, SM-A546M, SM-A546M/DS, SM-A546W"
+    },
+    {
+        "url": "https://www.gsmarena.com/oppo_reno13-13515.php",
+        "modelName": "Oppo Reno13",
+        "modelCode": "CPH2689, PKM110"
+    },
+    {
+        "url": "https://www.gsmarena.com/motorola_moto_g85-13144.php",
+        "modelName": "Motorola Moto G85",
+        "modelCode": "XT2427-3"
+    },
+    {
+        "url": "https://www.gsmarena.com/realme_14-13729.php",
+        "modelName": "Realme 14",
+        "modelCode": "Yok"
+    },
+    {
+        "url": "https://www.gsmarena.com/samsung_galaxy_s21_5g-10626.php",
+        "modelName": "Samsung Galaxy S21 5G",
+        "modelCode": "SM-G991B, SM-G991B/DS, SM-G991U, SM-G991U1, SM-G991W, SM-G991N, SM-G9910, SM-G991Q, SCG09"
+    },
+    {
+        "url": "https://www.gsmarena.com/motorola_edge_50_fusion-12871.php",
+        "modelName": "Motorola Edge 50 Fusion",
+        "modelCode": "XT2429-1"
+    },
+    {
+        "url": "https://www.gsmarena.com/apple_iphone_13_pro-11102.php",
+        "modelName": "Apple iPhone 13 Pro",
+        "modelCode": "A2638, A2483, A2636, A2639, A2640, iPhone14,2"
+    },
+    {
+        "url": "https://www.gsmarena.com/xiaomi_14t-13329.php",
+        "modelName": "Xiaomi 14T",
+        "modelCode": "2406APNFAG"
+    },
+    {
+        "url": "https://www.gsmarena.com/xiaomi_poco_x7-13604.php",
+        "modelName": "Xiaomi Poco X7",
+        "modelCode": "24095PCADG"
+    },
+    {
+        "url": "https://www.gsmarena.com/google_pixel_9-13219.php",
+        "modelName": "Google Pixel 9",
+        "modelCode": "G2YBB, GUR25, G1B60"
+    },
+    {
+        "url": "https://www.gsmarena.com/honor_200-13050.php",
+        "modelName": "Honor 200",
+        "modelCode": "ELI-AN00, ELI-NX9"
+    },
+    {
+        "url": "https://www.gsmarena.com/xiaomi_14t_pro-13328.php",
+        "modelName": "Xiaomi 14T Pro",
+        "modelCode": "2407FPN8EG"
+    },
+    {
+        "url": "https://www.gsmarena.com/realme_gt_7_5g-13863.php",
+        "modelName": "Realme GT 7",
+        "modelCode": "Yok"
+    },
+    {
+        "url": "https://www.gsmarena.com/apple_iphone_xs_max-9319.php",
+        "modelName": "Apple iPhone XS Max",
+        "modelCode": "A1921, A2101, A2102, A2104, iPhone11,6"
+    },
+    {
+        "url": "https://www.gsmarena.com/apple_iphone_12_pro-10508.php",
+        "modelName": "Apple iPhone 12 Pro",
+        "modelCode": "A2407, A2341, A2406, A2408, iPhone13,3"
+    },
+    {
+        "url": "https://www.gsmarena.com/apple_iphone_15_pro-12557.php",
+        "modelName": "Apple iPhone 15 Pro",
+        "modelCode": "A2848, A3101, A3102, A3104, iPhone16,1"
+    },
+    {
+        "url": "https://www.gsmarena.com/xiaomi_redmi_note_13_pro+-12572.php",
+        "modelName": "Xiaomi Redmi Note 13 Pro+",
+        "modelCode": "23090RA98C, 23090RA98G, 23090RA98I"
+    }
+]
