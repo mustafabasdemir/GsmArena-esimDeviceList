@@ -1,148 +1,153 @@
 [
     {
-        "url": "https://www.gsmarena.com/apple_iphone_xr-9320.php",
-        "modelName": "Apple iPhone XR",
-        "modelCode": "A1984, A2105, A2106"
-    },
-    {
-        "url": "https://www.gsmarena.com/apple_iphone_xs_max-9319.php",
-        "modelName": "Apple iPhone XS Max",
-        "modelCode": "A1921, A2101, A2102"
-    },
-    {
-        "url": "https://www.gsmarena.com/apple_iphone_xs-9318.php",
-        "modelName": "Apple iPhone XS",
-        "modelCode": "A1920, A2097, A2098"
-    },
-    {
-        "url": "https://www.gsmarena.com/apple_iphone_11-9848.php",
-        "modelName": "Apple iPhone 11",
-        "modelCode": "A2111, A2221"
-    },
-    {
-        "url": "https://www.gsmarena.com/apple_iphone_11_pro_max-9846.php",
-        "modelName": "Apple iPhone 11 Pro Max",
-        "modelCode": "A2161, A2218"
-    },
-    {
-        "url": "https://www.gsmarena.com/apple_iphone_11_pro-9847.php",
-        "modelName": "Apple iPhone 11 Pro",
-        "modelCode": "A2160, A2215"
-    },
-    {
-        "url": "https://www.gsmarena.com/apple_iphone_se_(2020)-10170.php",
-        "modelName": "Apple iPhone SE2",
-        "modelCode": "A2275, A2296"
-    },
-    {
-        "url": "https://www.gsmarena.com/apple_iphone_12_mini-10510.php",
-        "modelName": "Apple iPhone 12 Mini",
-        "modelCode": "A2176, A2398, A2399"
-    },
-    {
-        "url": "https://www.gsmarena.com/apple_iphone_12-10509.php",
-        "modelName": "Apple iPhone 12",
-        "modelCode": "A2172, A2402, A2403"
-    },
-    {
-        "url": "https://www.gsmarena.com/apple_iphone_12_pro-10508.php",
-        "modelName": "Apple iPhone 12 Pro",
-        "modelCode": "A2341, A2406, A2407"
-    },
-    {
-        "url": "https://www.gsmarena.com/apple_iphone_12_pro_max-10237.php",
-        "modelName": "Apple iPhone 12 Pro Max",
-        "modelCode": "A2342, A2410, A2411"
-    },
-    {
-        "url": "https://www.gsmarena.com/apple_iphone_13_mini-11104.php",
-        "modelName": "Apple iPhone 13 Mini",
-        "modelCode": "A2481, A2626, A2630, A2628"
+        "url": "https://www.gsmarena.com/apple_iphone_16_pro_max-13123.php",
+        "modelName": "Apple iPhone 16 Pro Max",
+        "modelCode": "A3296, A3084, A3295, A3297, iPhone17,2"
     },
     {
         "url": "https://www.gsmarena.com/apple_iphone_13-11103.php",
         "modelName": "Apple iPhone 13",
-        "modelCode": "A2482, A2631, A2635, A2633"
+        "modelCode": "A2633, A2482, A2631, A2634, A2635, iphone14,5"
     },
     {
-        "url": "https://www.gsmarena.com/apple_iphone_13_pro-11102.php",
-        "modelName": "Apple iPhone 13 Pro",
-        "modelCode": "A2483, A2636, A2640, A2638"
-    },
-    {
-        "url": "https://www.gsmarena.com/apple_iphone_13_pro_max-11089.php",
-        "modelName": "Apple iPhone 13 Pro Max",
-        "modelCode": "A2484, A2641, A2645, A2643"
-    },
-    {
-        "url": "https://www.gsmarena.com/apple_iphone_se_(2022)-11410.php",
-        "modelName": "Apple iPhone SE3",
-        "modelCode": "A2595, A2782, A2784, A2783"
-    },
-    {
-        "url": "https://www.gsmarena.com/apple_iphone_14-11861.php",
-        "modelName": "Apple iPhone 14",
-        "modelCode": "A2649, A2881, A2883, A2885"
-    },
-    {
-        "url": "https://www.gsmarena.com/apple_iphone_14_plus-11862.php",
-        "modelName": "Apple iPhone 14 Plus",
-        "modelCode": "A2632, A2885, A2887, A2886"
-    },
-    {
-        "url": "https://www.gsmarena.com/apple_iphone_14_pro-11860.php",
-        "modelName": "Apple iPhone 14 Pro",
-        "modelCode": "A2650, A2889, A2891, A2890"
-    },
-    {
-        "url": "https://www.gsmarena.com/apple_iphone_14_pro_max-11773.php",
-        "modelName": "Apple iPhone 14 Pro Max",
-        "modelCode": "A2651, A2893, A2895, A2894"
-    },
-    {
-        "url": "https://www.gsmarena.com/apple_iphone_15-12559.php",
-        "modelName": "Apple iPhone 15",
-        "modelCode": "A2846, A3089, A3090"
-    },
-    {
-        "url": "https://www.gsmarena.com/apple_iphone_15_plus-12558.php",
-        "modelName": "Apple iPhone 15 Plus",
-        "modelCode": "A2847, A3093, A3094"
-    },
-    {
-        "url": "https://www.gsmarena.com/apple_iphone_15_pro-12557.php",
-        "modelName": "Apple iPhone 15 Pro",
-        "modelCode": "A2848, A3101, A3102"
-    },
-    {
-        "url": "https://www.gsmarena.com/apple_iphone_15_pro_max-12548.php",
-        "modelName": "Apple iPhone 15 Pro Max",
-        "modelCode": "A2849, A3105, A3106"
+        "url": "https://www.gsmarena.com/apple_iphone_11-9848.php",
+        "modelName": "Apple iPhone 11",
+        "modelCode": "A2221, A2111, A2223, iPhone12,1"
     },
     {
         "url": "https://www.gsmarena.com/apple_iphone_16-13317.php",
         "modelName": "Apple iPhone 16",
-        "modelCode": "A3081, A3286, A3287"
+        "modelCode": "A3287, A3081, A3286, A3288, iPhone17,3"
     },
     {
-        "url": "https://www.gsmarena.com/apple_iphone_16_plus-13316.php",
-        "modelName": "Apple iPhone 16 Plus",
-        "modelCode": "A3082, A3289, A3290"
+        "url": "https://www.gsmarena.com/apple_iphone_15-12559.php",
+        "modelName": "Apple iPhone 15",
+        "modelCode": "A3090, A2846, A3089, A3092, iPhone15,4"
     },
     {
         "url": "https://www.gsmarena.com/apple_iphone_16_pro-13315.php",
         "modelName": "Apple iPhone 16 Pro",
-        "modelCode": "A3083, A3292, A3293"
+        "modelCode": "A3293, A3083, A3292, A3294, iPhone17,1"
     },
     {
-        "url": "https://www.gsmarena.com/apple_iphone_16_pro_max-13123.php",
-        "modelName": "Apple iPhone 16 Pro Max",
-        "modelCode": "A3084, A3295, A3296"
+        "url": "https://www.gsmarena.com/apple_iphone_12-10509.php",
+        "modelName": "Apple iPhone 12",
+        "modelCode": "A2403, A2172, A2402, A2404, iPhone13,2"
+    },
+    {
+        "url": "https://www.gsmarena.com/apple_iphone_13_pro_max-11089.php",
+        "modelName": "Apple iPhone 13 Pro Max",
+        "modelCode": "A2643, A2484, A2641, A2644, A2645, iphone14,3"
+    },
+    {
+        "url": "https://www.gsmarena.com/apple_iphone_14_pro_max-11773.php",
+        "modelName": "Apple iPhone 14 Pro Max",
+        "modelCode": "A2894, A2651, A2893, A2895, iphone15,3"
+    },
+    {
+        "url": "https://www.gsmarena.com/apple_iphone_15_pro_max-12548.php",
+        "modelName": "Apple iPhone 15 Pro Max",
+        "modelCode": "A2849, A3105, A3106, A3108, iPhone16,2"
+    },
+    {
+        "url": "https://www.gsmarena.com/apple_iphone_xr-9320.php",
+        "modelName": "Apple iPhone XR",
+        "modelCode": "A2105, A1984, A2107, A2108, A2106, iPhone11,8"
+    },
+    {
+        "url": "https://www.gsmarena.com/apple_iphone_14-11861.php",
+        "modelName": "Apple iPhone 14",
+        "modelCode": "A2882, A2649, A2881, A2884, A2883, iphone14,7"
+    },
+    {
+        "url": "https://www.gsmarena.com/apple_iphone_12_pro_max-10237.php",
+        "modelName": "Apple iPhone 12 Pro Max",
+        "modelCode": "A2411, A2342, A2410, A2412, iPhone13,4"
     },
     {
         "url": "https://www.gsmarena.com/apple_iphone_16e-13395.php",
         "modelName": "Apple iPhone 16e",
-        "modelCode": "A3212, A3408, A3409"
+        "modelCode": "A3212, A3409, A3410, A3408, iPhone17,5"
+    },
+    {
+        "url": "https://www.gsmarena.com/apple_iphone_17_air-13502.php",
+        "modelName": "Apple iPhone 17 Air",
+        "modelCode": "Yok"
+    },
+    {
+        "url": "https://www.gsmarena.com/apple_iphone_14_pro-11860.php",
+        "modelName": "Apple iPhone 14 Pro",
+        "modelCode": "A2890, A2650, A2889, A2892, iphone15,2"
+    },
+    {
+        "url": "https://www.gsmarena.com/apple_iphone_13_pro-11102.php",
+        "modelName": "Apple iPhone 13 Pro",
+        "modelCode": "A2638, A2483, A2636, A2639, A2640, iPhone14,2"
+    },
+    {
+        "url": "https://www.gsmarena.com/apple_iphone_12_pro-10508.php",
+        "modelName": "Apple iPhone 12 Pro",
+        "modelCode": "A2407, A2341, A2406, A2408, iPhone13,3"
+    },
+    {
+        "url": "https://www.gsmarena.com/apple_iphone_15_pro-12557.php",
+        "modelName": "Apple iPhone 15 Pro",
+        "modelCode": "A2848, A3101, A3102, A3104, iPhone16,1"
+    },
+    {
+        "url": "https://www.gsmarena.com/apple_iphone_11_pro_max-9846.php",
+        "modelName": "Apple iPhone 11 Pro Max",
+        "modelCode": "A2218, A2161, A2220, iPhone12,5"
+    },
+    {
+        "url": "https://www.gsmarena.com/apple_iphone_xs_max-9319.php",
+        "modelName": "Apple iPhone XS Max",
+        "modelCode": "A1921, A2101, A2102, A2104, iPhone11,6"
+    },
+    {
+        "url": "https://www.gsmarena.com/apple_iphone_11_pro-9847.php",
+        "modelName": "Apple iPhone 11 Pro",
+        "modelCode": "A2215, A2160, A2217, iPhone12,3"
+    },
+    {
+        "url": "https://www.gsmarena.com/apple_iphone_xs-9318.php",
+        "modelName": "Apple iPhone XS",
+        "modelCode": "A2097, A1920, A2100, A2098, iPhone11,2"
+    },
+    {
+        "url": "https://www.gsmarena.com/apple_iphone_16_plus-13316.php",
+        "modelName": "Apple iPhone 16 Plus",
+        "modelCode": "A3290, A3082, A3289, A3291, iPhone17,4"
+    },
+    {
+        "url": "https://www.gsmarena.com/apple_iphone_15_plus-12558.php",
+        "modelName": "Apple iPhone 15 Plus",
+        "modelCode": "A3094, A2847, A3093, A3096, iPhone15,5"
+    },
+    {
+        "url": "https://www.gsmarena.com/apple_iphone_14_plus-11862.php",
+        "modelName": "Apple iPhone 14 Plus",
+        "modelCode": "A2886, A2632, A2885, A2896, A2887, iphone14,8"
+    },
+    {
+        "url": "https://www.gsmarena.com/apple_iphone_12_mini-10510.php",
+        "modelName": "Apple iPhone 12 mini",
+        "modelCode": "A2399, A2176, A2398, A2400, A2399, iPhone13,1"
+    },
+    {
+        "url": "https://www.gsmarena.com/apple_iphone_se_(2020)-10170.php",
+        "modelName": "Apple iPhone SE (2020)",
+        "modelCode": "A2275, A2296, A2298, iPhone12,8"
+    },
+    {
+        "url": "https://www.gsmarena.com/apple_iphone_13_mini-11104.php",
+        "modelName": "Apple iPhone 13 mini",
+        "modelCode": "A2628, A2481, A2626, A2629, A2630, iphone14,4"
+    },
+    {
+        "url": "https://www.gsmarena.com/apple_iphone_se_(2022)-11410.php",
+        "modelName": "Apple iPhone SE (2022)",
+        "modelCode": "A2783, A2595, A2785, A2782, A2784, iphone14,6"
     },
     {
         "url": "https://www.gsmarena.com/samsung_galaxy_s25_ultra-13322.php",
@@ -605,3 +610,4 @@
         "modelCode": "ANA-AL00"
     }
 ]
+
